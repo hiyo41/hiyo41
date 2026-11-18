@@ -16,8 +16,6 @@ Mình xây những công cụ nhỏ, nhanh và gọn — từ plugin Paper, mod 
 | Dự án | Mô tả | Stack |
 | --- | --- | --- |
 | [**HiyoConvert**](https://github.com/hiyo41/HiyoConvert) | Chuyển đổi audio hàng loạt, đa luồng; hỗ trợ YouTube và Spotify | `Python` · `ffmpeg` · `yt-dlp` |
-| [**HiyoLauncher**](https://github.com/hiyo41/HiyoLauncher) | Minecraft launcher nhanh, đẹp, tích hợp Modrinth | `TypeScript` |
-| [**ItemTimer**](https://github.com/hiyo41/ItemTimer) | Đếm ngược và tự động xoá item rơi trong Minecraft | `Java` · `Paper` |
 
 ## Công nghệ
 
@@ -29,10 +27,10 @@ Mình xây những công cụ nhỏ, nhanh và gọn — từ plugin Paper, mod 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Thống kê GitHub
+## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hiyo41&show_icons=true&theme=tokyonight&hide_border=true&locale=vi" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hiyo41&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=hiyo41&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
